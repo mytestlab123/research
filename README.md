@@ -1,6 +1,2 @@
----
-description: Improved Research
----
-
 # Research
 
